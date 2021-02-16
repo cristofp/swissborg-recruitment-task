@@ -18,7 +18,7 @@ amm program/Main.sc true
 ```
 # Explanation of algorithm
 
-![Sample exchange Rates](assets/rates.png)
+![Sample exchange Rates](https://raw.githubusercontent.com/cristofp/swissborg-recruitment-task/main/assets/rates.png)
 
 Findings about Arbitrage Seeking problem:
   - Each currency exchange chain can be described as a chain of multiplications of the particular currency exchange rates and so 
